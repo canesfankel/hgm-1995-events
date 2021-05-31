@@ -1,0 +1,677 @@
+{
+  "startingSeason": 1995,
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 1,
+      "did": 3,
+      "region": "Anaheim",
+      "name": "Mighty Ducks",
+      "abbrev": "ANA",
+      "pop": 0.3,
+      "stadiumCapacity": 17174,
+      "imgURL": "https://cdn.discordapp.com/attachments/302970691651895296/813436531271270430/image.png",
+      "jersey": "hockey",
+      "colors": [
+        "#000000",
+        "#000000",
+        "#00685E"
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 1,
+      "region": "Boston",
+      "name": "Bruins",
+      "abbrev": "BOS",
+      "pop": 4.2,
+      "stadiumCapacity": 17565,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png",
+      "jersey": "hockey",
+      "colors": [
+        "#000000",
+        "#FFB81C",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 1,
+      "region": "Buffalo",
+      "name": "Sabres",
+      "abbrev": "BUF",
+      "pop": 1.1,
+      "stadiumCapacity": 18690,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813439789897875547/buffalo.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#002654",
+        "#FCB514"
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 3,
+      "region": "Calgary",
+      "name": "Flames",
+      "abbrev": "CGY",
+      "pop": 1.1,
+      "stadiumCapacity": 19289,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649768111243304/1200px-Calgary_Flames_logo.png",
+      "jersey": "hockey2",
+      "colors": [
+        "#C8102E",
+        "#F1BE48",
+        "#F1BE48"
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 1,
+      "did": 2,
+      "region": "Chicago",
+      "name": "Blackhawks",
+      "abbrev": "CHI",
+      "pop": 8.8,
+      "stadiumCapacity": 19717,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649881978077244/1200px-Chicago_Blackhawks_logo.png",
+      "jersey": "hockey2",
+      "colors": [
+        "#CF0A2C",
+        "#FFFFFF",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 3,
+      "region": "Colorado",
+      "name": "Avalanche",
+      "abbrev": "COL",
+      "pop": 2.5,
+      "stadiumCapacity": 17809,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650022811140127/1024px-Colorado_Avalanche_logo.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#6F263D",
+        "#236192"
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 2,
+      "region": "Dallas",
+      "name": "Stars",
+      "abbrev": "DAL",
+      "pop": 4.5,
+      "stadiumCapacity": 17000,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813445054827987004/dallas.png",
+      "jersey": "hockey",
+      "colors": [
+        "#154734",
+        "#154734",
+        "#C69214"
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 2,
+      "region": "Detroit",
+      "name": "Red Wings",
+      "abbrev": "DET",
+      "pop": 4.3,
+      "stadiumCapacity": 20804,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650255959392306/1200px-Detroit_Red_Wings_logo.png",
+      "jersey": "hockey2",
+      "colors": [
+        "#CE1126",
+        "#CE1126",
+        "#CE1126"
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 3,
+      "region": "Edmonton",
+      "name": "Oilers",
+      "abbrev": "EDM",
+      "pop": 0.9,
+      "stadiumCapacity": 17100,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650299144208434/1200px-Logo_Edmonton_Oilers.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FF4C00",
+        "#041E42",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 0,
+      "did": 0,
+      "region": "Florida",
+      "name": "Panthers",
+      "abbrev": "FLA",
+      "pop": 4.5,
+      "stadiumCapacity": 14703,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813452069679661066/panthers.png",
+      "jersey": "hockey",
+      "colors": [
+        "#041E42 ",
+        "#C8102E",
+        "#D4A00F"
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 0,
+      "did": 1,
+      "region": "Hartford",
+      "name": "Whalers",
+      "abbrev": "HFD",
+      "pop": 0.9,
+      "stadiumCapacity": 14750,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813455119332802600/Hartford_Whalers_1992.png",
+      "jersey": "hockey",
+      "colors": [
+        "#00205B",
+        "#00205B",
+        "#046A38"
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 3,
+      "region": "Los Angeles",
+      "name": "Kings",
+      "abbrev": "LAK",
+      "pop": 11.7,
+      "stadiumCapacity": 18230,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813453059749052466/37a92d4925d6b1c9a46853831d1c6591.png",
+      "jersey": "hockey",
+      "colors": [
+        "#212121",
+        "#212121",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 0,
+      "did": 1,
+      "region": "Montreal",
+      "name": "Canadiens",
+      "abbrev": "MON",
+      "pop": 3.3,
+      "stadiumCapacity": 21723,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#AF1E2D",
+        "#192168"
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 0,
+      "region": "New Jersey",
+      "name": "Devils",
+      "abbrev": "NYJ",
+      "pop": 0.2,
+      "stadiumCapacity": 16514,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650621739925505/1200px-New_Jersey_Devils_logo.png",
+      "jersey": "hockey",
+      "colors": [
+        "#CE1126",
+        "#19171B",
+        "#CE1126"
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Islanders",
+      "abbrev": "NYI",
+      "pop": 1.2,
+      "stadiumCapacity": 13917,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651376890675250/1200px-Logo_New_York_Islanders.png",
+      "jersey": "hockey",
+      "colors": [
+        "#003087",
+        "#003087",
+        "#fc4c02"
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Rangers",
+      "abbrev": "NYR",
+      "pop": 17.5,
+      "stadiumCapacity": 18006,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
+      "jersey": "hockey2",
+      "colors": [
+        "#0038A8",
+        "#CE1126",
+        "#CE1126"
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 1,
+      "region": "Ottawa",
+      "name": "Senators",
+      "abbrev": "OTT",
+      "pop": 0.9,
+      "stadiumCapacity": 18652,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813458177190133760/ottawa.png",
+      "jersey": "hockey",
+      "colors": [
+        "#000000",
+        "#000000",
+        "#C52032"
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 0,
+      "region": "Philadelphia",
+      "name": "Flyers",
+      "abbrev": "PHI",
+      "pop": 5.5,
+      "stadiumCapacity": 17380,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652527812804648/1200px-Philadelphia_Flyers.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#F74902",
+        "#000000"
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 0,
+      "did": 1,
+      "region": "Pittsburgh",
+      "name": "Penguins",
+      "abbrev": "PIT",
+      "pop": 2.2,
+      "stadiumCapacity": 16940,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png",
+      "jersey": "hockey",
+      "colors": [
+        "#231F20",
+        "#231F20",
+        "#FCB514"
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 1,
+      "did": 3,
+      "region": "San Jose",
+      "name": "Sharks",
+      "abbrev": "SJS",
+      "pop": 0.9,
+      "stadiumCapacity": 17562,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813460819726958622/sanjose.png",
+      "jersey": "hockey",
+      "colors": [
+        "#006D75",
+        "#006D75",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 2,
+      "region": "St. Louis",
+      "name": "Blues",
+      "abbrev": "STL",
+      "pop": 2,
+      "stadiumCapacity": 19260,
+      "jersey": "hockey",
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652697837568010/1200px-St.png",
+      "colors": [
+        "#002F87",
+        "#002F87",
+        "#FCB514"
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 0,
+      "did": 0,
+      "region": "Tampa Bay",
+      "name": "Lightning",
+      "abbrev": "TBL",
+      "pop": 2.1,
+      "stadiumCapacity": 19092,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810653973542862858/image_1.png",
+      "jersey": "hockey",
+      "colors": [
+        "#002868",
+        "#FFFFFF",
+        "#212121"
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 2,
+      "region": "Toronto",
+      "name": "Maple Leafs",
+      "abbrev": "TOR",
+      "pop": 4.4,
+      "stadiumCapacity": 15726,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
+      "jersey": "hockey2",
+      "colors": [
+        "#002366",
+        "#002366",
+        "#002366"
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 1,
+      "did": 3,
+      "region": "Vancouver",
+      "name": "Canucks",
+      "abbrev": "VAN",
+      "pop": 1.9,
+      "stadiumCapacity": 18422,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813464458235478106/vancouver.png",
+      "jersey": "hockey",
+      "colors": [
+        "#041C2C",
+        "#041C2C",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 0,
+      "did": 0,
+      "region": "Washington",
+      "name": "Capitals",
+      "abbrev": "WAS",
+      "pop": 4.4,
+      "stadiumCapacity": 18506,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813465936467198070/washington.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#C8102E",
+        "#041E42"
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 1,
+      "did": 2,
+      "region": "Winnipeg",
+      "name": "Jets",
+      "abbrev": "WPG",
+      "pop": 0.7,
+      "stadiumCapacity": 15321,
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813466151711014922/1200px-Winnipeg_Jets_Logo.png",
+      "jersey": "hockey",
+      "colors": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#AC162C"
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "Eastern Conference"
+        },
+        {
+          "cid": 1,
+          "name": "Western Conference"
+        }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "Atlantic"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "Northeast"
+        },
+        {
+          "did": 2,
+          "cid": 1,
+          "name": "Central"
+        },
+        {
+          "did": 3,
+          "cid": 1,
+          "name": "Pacific"
+        }
+      ]
+    },
+    {
+      "key": "minPayroll",
+      "value": 17000
+    },
+    {
+      "key": "salaryCap",
+      "value": 25000
+    },
+    {
+      "key": "maxContract",
+      "value": 3000
+    },
+    {
+      "key": "minContract",
+      "value": 300
+    },
+    {
+      "key": "luxuryPayroll",
+      "value": 28000
+    },
+    {
+      "key": "injuryRate",
+      "value": 0.000081
+    },
+    {
+      "key": "pace",
+      "value": 93
+    },
+    {
+      "key": "maxRosterSize",
+      "value": 27
+    }
+  ],
+  "scheduledEvents": [
+    {
+      "type": "expansionDraft",
+      "season": 1999,
+      "phase": 4,
+      "id": 0,
+      "info": {
+        "teams": [
+          {
+            "region": "Nashville",
+            "name": "Predators",
+            "pop": 0.6,
+            "abbrev": "NAS",
+            "stadiumCapacity": 17113,
+            "tid": 26,
+            "cid": 1,
+            "did": 2,
+            "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650566740672522/1200px-Nashville_Predators_Logo_28201129.png",
+            "jersey": "hockey2",
+            "colors": [
+              "#FFB81C",
+              "#030144",
+              "#FFB81C"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 1,
+      "info": {
+        "region": "Carolina",
+        "name": "Hurricanes",
+        "pop": 0.8,
+        "abbrev": "CAR",
+        "stadiumCapacity": 18680,
+        "tid": 10,
+        "cid": 0,
+        "did": 1,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810649820376334366/1200px-Carolina_Hurricanes.png?width=1124&height=676",
+        "jersey": "hockey2",
+        "colors": [
+          "#CC0000",
+          "#000000",
+          "#CC0000"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 2,
+      "info": {
+        "srID": "TOR",
+        "tid": 22,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2000,
+      "phase": 4,
+      "id": 3,
+      "info": {
+        "teams": [
+          {
+            "region": "Atlanta",
+            "name": "Thrashers",
+            "pop": 4.1,
+            "abbrev": "ATL",
+            "stadiumCapacity": 18545,
+            "tid": 27,
+            "cid": 0,
+            "did": 0,
+            "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/848946900220117043/1280px-Atlanta_Thrashers.png",
+            "jersey": "hockey3",
+            "colors": [
+              "#862633",
+              "#041E42",
+              "#FFA300"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 0,
+      "id": 4,
+      "info": {
+        "region": "Arizona",
+        "name": "Coyotes",
+        "pop": 2.7,
+        "abbrev": "ARI",
+        "stadiumCapacity": 17125,
+        "tid": 25,
+        "cid": 1,
+        "did": 2,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png?width=653&height=676",
+        "jersey": "hockey",
+        "colors": [
+          "#154734",
+          "#000000",
+          "#8C2633"
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2001,
+      "phase": 4,
+      "id": 5,
+      "info": {
+        "teams": [
+          {
+            "region": "Columbus",
+            "name": "Blue Jackets",
+            "pop": 1.1,
+            "abbrev": "CBJ",
+            "stadiumCapacity": 18144,
+            "tid": 28,
+            "cid": 1,
+            "did": 2,
+            "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650134400073768/1200px-Columbus_Blue_Jackets_logo.png?width=781&height=676",
+            "jersey": "hockey3",
+            "colors": [
+              "#002654",
+              "#FFFFFF",
+              "#CE1126"
+            ]
+          },
+          {
+            "region": "Minnesota",
+            "name": "Wild",
+            "pop": 2.9,
+            "abbrev": "MIN",
+            "stadiumCapacity": 18064,
+            "tid": 29,
+            "cid": 1,
+            "did": 2,
+            "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650455637098516/1200px-Minnesota_Wild.png?width=1047&height=676",
+            "jersey": "hockey2",
+            "colors": [
+              "#154734",
+              "#DDCBA4",
+              "#A6192E"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
