@@ -27,7 +27,7 @@
       "abbrev": "BOS",
       "pop": 4.2,
       "stadiumCapacity": 17565,
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/872709635944087572/872983640668258354/bos.png",
       "jersey": "hockey",
       "colors": [
         "#000000",
@@ -229,7 +229,7 @@
       "region": "New Jersey",
       "name": "Devils",
       "abbrev": "NJD",
-      "pop": 0.2,
+      "pop": 4.6,
       "stadiumCapacity": 16514,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650621739925505/1200px-New_Jersey_Devils_logo.png",
       "jersey": "hockey",
@@ -265,7 +265,7 @@
       "abbrev": "NYR",
       "pop": 17.5,
       "stadiumCapacity": 18006,
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
+      "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872981621303803944/nyr.png?width=697&height=676",
       "jersey": "hockey2",
       "colors": [
         "#0038A8",
@@ -367,7 +367,7 @@
       "abbrev": "TBL",
       "pop": 2.1,
       "stadiumCapacity": 19092,
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810653973542862858/image_1.png",
+      "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872965156014002276/tb.png",
       "jersey": "hockey",
       "colors": [
         "#002868",
@@ -384,7 +384,7 @@
       "abbrev": "TOR",
       "pop": 4.4,
       "stadiumCapacity": 15726,
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
+      "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872966251851423744/tor.png?width=632&height=676",
       "jersey": "hockey2",
       "colors": [
         "#002366",
@@ -401,12 +401,12 @@
       "abbrev": "VAN",
       "pop": 1.9,
       "stadiumCapacity": 18422,
-      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813464458235478106/vancouver.png",
-      "jersey": "hockey",
+      "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872711737466581012/van.png",
+      "jersey": "hockey3",
       "colors": [
-        "#041C2C",
-        "#041C2C",
-        "#FFFFFF"
+        "#231F20",
+        "#FCB514",
+        "#BD2108"
       ]
     },
     {
@@ -533,7 +533,7 @@
             "stadiumCapacity": 17113,
             "tid": 26,
             "cid": 1,
-            "did": 2,
+            "did": 3,
             "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650566740672522/1200px-Nashville_Predators_Logo_28201129.png",
             "jersey": "hockey2",
             "colors": [
@@ -570,14 +570,13 @@
     },
     {
       "type": "teamInfo",
-      "season": 1999,
+      "season": 2007,
       "phase": 4,
       "id": 2,
       "info": {
-        "srID": "TOR",
-        "tid": 22,
-        "cid": 0,
-        "did": 1
+        "srID": "SJS",
+        "tid": 19,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810652638081187890/1200px-SanJoseSharksLogo.png?width=807&height=676"
       }
     },
     {
@@ -596,7 +595,7 @@
             "stadiumCapacity": 18545,
             "tid": 27,
             "cid": 0,
-            "did": 0,
+            "did": 2,
             "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/848946900220117043/1280px-Atlanta_Thrashers.png",
             "jersey": "hockey3",
             "colors": [
@@ -614,15 +613,15 @@
       "phase": 0,
       "id": 4,
       "info": {
-        "region": "Arizona",
+        "region": "Phoenix",
         "name": "Coyotes",
         "pop": 2.7,
-        "abbrev": "ARI",
+        "abbrev": "PHX",
         "stadiumCapacity": 17125,
         "tid": 25,
         "cid": 1,
         "did": 2,
-        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png?width=653&height=676",
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/872700134302056478/phx.png",
         "jersey": "hockey",
         "colors": [
           "#154734",
@@ -647,8 +646,8 @@
             "stadiumCapacity": 18144,
             "tid": 28,
             "cid": 1,
-            "did": 2,
-            "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650134400073768/1200px-Columbus_Blue_Jackets_logo.png?width=781&height=676",
+            "did": 3,
+            "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872968984985759754/cbj.png?width=874&height=676",
             "jersey": "hockey3",
             "colors": [
               "#002654",
@@ -664,7 +663,7 @@
             "stadiumCapacity": 18064,
             "tid": 29,
             "cid": 1,
-            "did": 2,
+            "did": 4,
             "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650455637098516/1200px-Minnesota_Wild.png?width=1047&height=676",
             "jersey": "hockey2",
             "colors": [
@@ -674,6 +673,1002 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1999,
+      "phase": 4,
+      "id": 6,
+      "info": {
+        "divs": [
+          {
+            "did": 0,
+            "cid": 0,
+            "name": "Atlantic Division"
+          },
+          {
+            "did": 1,
+            "cid": 0,
+            "name": "Northeast Division"
+          },
+          {
+            "did": 2,
+            "cid": 0,
+            "name": "Southeast Division"
+          },
+          {
+            "did": 3,
+            "cid": 1,
+            "name": "Central Division"
+          },
+          {
+            "did": 4,
+            "cid": 1,
+            "name": "Northwest Division"
+          },
+          {
+            "did": 5,
+            "cid": 1,
+            "name": "Pacific Division"
+          }
+        ]
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2014,
+      "phase": 0,
+      "id": 7,
+      "info": {
+        "divs": [
+          {
+            "did": 0,
+            "cid": 0,
+            "name": "Atlantic Division"
+          },
+          {
+            "did": 1,
+            "cid": 0,
+            "name": "Metropolitan Division"
+          },
+          {
+            "did": 2,
+            "cid": 1,
+            "name": "Central Division"
+          },
+          {
+            "did": 3,
+            "cid": 1,
+            "name": "Pacific Division"
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 8,
+      "info": {
+        "srID": "ANA",
+        "tid": 0,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 9,
+      "info": {
+        "srID": "BOS",
+        "tid": 1,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 10,
+      "info": {
+        "srID": "BUF",
+        "tid": 2,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 11,
+      "info": {
+        "srID": "CGY",
+        "tid": 3,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 12,
+      "info": {
+        "srID": "CHI",
+        "tid": 4,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 13,
+      "info": {
+        "srID": "CAR",
+        "tid": 10,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 14,
+      "info": {
+        "srID": "COL",
+        "tid": 5,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 15,
+      "info": {
+        "srID": "DAL",
+        "tid": 6,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 16,
+      "info": {
+        "srID": "DET",
+        "tid": 7,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 17,
+      "info": {
+        "srID": "EDM",
+        "tid": 8,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 18,
+      "info": {
+        "srID": "FLA",
+        "tid": 9,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 19,
+      "info": {
+        "srID": "LAK",
+        "tid": 11,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 20,
+      "info": {
+        "srID": "MON",
+        "tid": 12,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 21,
+      "info": {
+        "srID": "NJD",
+        "tid": 13,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 22,
+      "info": {
+        "srID": "NYI",
+        "tid": 14,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 23,
+      "info": {
+        "srID": "NYR",
+        "tid": 15,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 25,
+      "info": {
+        "srID": "OTT",
+        "tid": 16,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 25,
+      "info": {
+        "srID": "PHI",
+        "tid": 17,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 26,
+      "info": {
+        "srID": "PIT",
+        "tid": 18,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 27,
+      "info": {
+        "srID": "SJS",
+        "tid": 19,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 28,
+      "info": {
+        "srID": "STL",
+        "tid": 20,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 29,
+      "info": {
+        "srID": "TBL",
+        "tid": 21,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 30,
+      "info": {
+        "srID": "TOR",
+        "tid": 22,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 31,
+      "info": {
+        "srID": "VAN",
+        "tid": 23,
+        "cid": 1,
+        "did": 4
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 32,
+      "info": {
+        "srID": "WAS",
+        "tid": 24,
+        "cid": 0,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 33,
+      "info": {
+        "srID": "PHX",
+        "tid": 25,
+        "cid": 1,
+        "did": 5
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 4,
+      "id": 34,
+      "info": {
+        "srID": "FLA",
+        "tid": 9,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650356685602846/1200px-Florida_Panthers_2016_logo.png?width=604&height=675",
+        "jersey": "hockey4",
+        "colors": [
+          "#C8102E",
+          "#041E42",
+          "#B9975B"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 4,
+      "id": 35,
+      "info": {
+        "srID": "WAS",
+        "tid": 24,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810654293030862888/1200px-Washington_Capitals.png?width=1049&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 4,
+      "id": 36,
+      "info": {
+        "srID": "VAN",
+        "tid": 23,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810654166434578472/1200px-Vancouver_Canucks_logo.png?width=701&height=676",
+        "jersey": "hockey",
+        "colors": [
+          "#00205B",
+          "#00205B",
+          "#00843D"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "id": 37,
+      "info": {
+        "region": "Anaheim",
+        "name": "Ducks",
+        "abbrev": "ANA",
+        "pop": 0.3,
+        "stadiumCapacity": 17125,
+        "tid": 0,
+        "cid": 1,
+        "did": 5,
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810647820356026398/1200px-Anaheim_Ducks.png",
+        "jersey": "hockey3",
+        "colors": [
+          "#000000",
+          "#000000",
+          "#F47A38"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 4,
+      "id": 38,
+      "info": {
+        "srID": "TBL",
+        "tid": 21,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810653973542862858/image_1.png?width=725&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 4,
+      "id": 39,
+      "info": {
+        "srID": "TOR",
+        "tid": 22,
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 4,
+      "id": 40,
+      "info": {
+        "srID": "CBJ",
+        "tid": 28,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650134400073768/1200px-Columbus_Blue_Jackets_logo.png?width=781&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 4,
+      "id": 41,
+      "info": {
+        "srID": "DAL",
+        "tid": 6,
+        "colors": [
+          "#006847",
+          "#FFFFFF",
+          "#000000"
+        ],
+        "jersey": "hockey2",
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810650205598515230/1200px-Dallas_Stars_logo_28201329.png?width=823&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 42,
+      "info": {
+        "region": "Arizona",
+        "name": "Coyotes",
+        "abbrev": "ARI",
+        "pop": 4.8,
+        "stadiumCapacity": 17125,
+        "tid": 25,
+        "cid": 1,
+        "did": 5,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png?width=653&height=676",
+        "jersey": "hockey",
+        "colors": [
+          "#154734",
+          "#000000",
+          "#8C2633"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 43,
+      "info": {
+        "srID": "NYR",
+        "tid": 15,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png?width=701&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 4,
+      "id": 44,
+      "info": {
+        "srID": "BOS",
+        "tid": 1,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png?width=676&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 45,
+      "info": {
+        "region": "Winnipeg",
+        "name": "Jets",
+        "pop": 0.7,
+        "abbrev": "WPG",
+        "stadiumCapacity": 15231,
+        "tid": 27,
+        "cid": 0,
+        "did": 2,
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654447532245002/1200px-Winnipeg_Jets_Logo_2011.png",
+        "jersey": "hockey2",
+        "colors": [
+          "#002D62",
+          "#1468A8",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 46,
+      "info": {
+        "srID": "ANA",
+        "tid": 0,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 47,
+      "info": {
+        "srID": "ARI",
+        "tid": 25,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 48,
+      "info": {
+        "srID": "BOS",
+        "tid": 1,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 49,
+      "info": {
+        "srID": "BUF",
+        "tid": 2,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 50,
+      "info": {
+        "srID": "CGY",
+        "tid": 3,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 51,
+      "info": {
+        "srID": "CAR",
+        "tid": 10,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 52,
+      "info": {
+        "srID": "CBJ",
+        "tid": 28,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 53,
+      "info": {
+        "srID": "CHI",
+        "tid": 4,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 54,
+      "info": {
+        "srID": "COL",
+        "tid": 5,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 55,
+      "info": {
+        "srID": "DAL",
+        "tid": 6,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 56,
+      "info": {
+        "srID": "DET",
+        "tid": 7,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 57,
+      "info": {
+        "srID": "EDM",
+        "tid": 8,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 58,
+      "info": {
+        "srID": "FLA",
+        "tid": 9,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 59,
+      "info": {
+        "srID": "LAK",
+        "tid": 11,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 60,
+      "info": {
+        "srID": "MON",
+        "tid": 12,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 61,
+      "info": {
+        "srID": "MIN",
+        "tid": 29,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 62,
+      "info": {
+        "srID": "NAS",
+        "tid": 26,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 63,
+      "info": {
+        "srID": "NJD",
+        "tid": 13,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 64,
+      "info": {
+        "srID": "NYI",
+        "tid": 14,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 65,
+      "info": {
+        "srID": "NYR",
+        "tid": 15,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 66,
+      "info": {
+        "srID": "OTT",
+        "tid": 16,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 67,
+      "info": {
+        "srID": "PHI",
+        "tid": 17,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 68,
+      "info": {
+        "srID": "PIT",
+        "tid": 18,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 69,
+      "info": {
+        "srID": "SJS",
+        "tid": 19,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 70,
+      "info": {
+        "srID": "STL",
+        "tid": 20,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 71,
+      "info": {
+        "srID": "TBL",
+        "tid": 21,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 72,
+      "info": {
+        "srID": "TOR",
+        "tid": 22,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 73,
+      "info": {
+        "srID": "VAN",
+        "tid": 23,
+        "cid": 1,
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 74,
+      "info": {
+        "srID": "WAS",
+        "tid": 24,
+        "cid": 0,
+        "did": 1
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 75,
+      "info": {
+        "srID": "WPG",
+        "tid": 27,
+        "cid": 1,
+        "did": 2
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2017,
+      "phase": 4,
+      "id": 76,
+      "info": {
+        "numProtectedPlayers": 17,
+        "teams": [
+          {
+            "region": "Vegas",
+            "name": "Golden Knights",
+            "pop": 2.2,
+            "abbrev": "VGK",
+            "stadiumCapacity": 17356,
+            "tid": 30,
+            "cid": 1,
+            "did": 3,
+            "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654240363773972/1200px-Vegas_Golden_Knights_logo.png",
+            "jersey": "hockey2",
+            "colors": [
+              "#231F20",
+              "#231F20",
+              "#231F20"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "expansionDraft",
+      "season": 2021,
+      "phase": 4,
+      "id": 77,
+      "info": {
+        "numProtectedPlayers": 17,
+        "teams": [
+          {
+            "region": "Seattle",
+            "name": "Kraken",
+            "pop": 3.9,
+            "abbrev": "SEA",
+            "stadiumCapacity": 17110,
+            "tid": 31,
+            "cid": 1,
+            "did": 3,
+            "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654506894360586/220px-Seattle_Kraken_official_logo.png",
+            "jersey": "hockey",
+            "colors": [
+              "#001628",
+              "#001628",
+              "#99D9D9"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "id": 78,
+      "info": {
+        "srID": "ARI",
+        "tid": 25,
+        "cid": 1,
+        "did": 2
       }
     }
   ]
