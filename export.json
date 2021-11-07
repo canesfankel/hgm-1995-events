@@ -1188,7 +1188,7 @@
         "stadiumCapacity": 17125,
         "tid": 25,
         "cid": 1,
-        "did": 5,
+        "did": 3,
         "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png?width=653&height=676",
         "jersey": "hockey",
         "colors": [
@@ -1300,7 +1300,7 @@
         "srID": "CGY",
         "tid": 3,
         "cid": 1,
-        "did": 2
+        "did": 3
       }
     },
     {
@@ -1668,7 +1668,18 @@
         "srID": "ARI",
         "tid": 25,
         "cid": 1,
-        "did": 2
+        "did": 3
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2021,
+      "phase": 4,
+      "id": 79,
+      "info": {
+        "srID": "ARI",
+        "tid": 25,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/872700134302056478/phx.png?width=685&height=676"
       }
     }
   ]
