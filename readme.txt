@@ -8,7 +8,7 @@ F5 - Columbus Blue Jackets and Minnesota Wild expansion draft 2001
 F77 - Vegas Golden Knights expansion draft 2017
 F78 - Seattle Kraken expansion draft 2021
 
-The next fields are relocations and rebranding unless stated otherwise.
+The next fields are relocations and rebranding.
 FIELDS NOT IN CHRONOLOGICAL ORDER
 
 F1 - Hartford Whalers become the Carolina Hurricanes 1998
@@ -26,6 +26,9 @@ F42 - Phoenix Coyotes rebrand (to Arizona Yotes) 2014
 F43 - New York Rangers rebrand 1999
 F44 - Boston Bruins rebrand 2007
 F45 - Atlanta Thrashers become 2nd version of the Winnipeg Jets 2011
+F79 - Arizona Coyotes rebrand (to Kachina logo) 2021
+F80 - St. Louis Blues rebrand 1999
+F81 - Los Angeles Kings rebrand 2010
 
 The next fields are conference and division realignments.
 Fiels 6 and 7 are divisional realignments. 1999 and 2014 respectively.

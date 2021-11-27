@@ -351,7 +351,7 @@
       "pop": 2,
       "stadiumCapacity": 19260,
       "jersey": "hockey",
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652697837568010/1200px-St.png",
+      "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/914032156643315732/stlouis.png",
       "colors": [
         "#002F87",
         "#002F87",
@@ -1680,6 +1680,28 @@
         "srID": "ARI",
         "tid": 25,
         "imgURL": "https://media.discordapp.net/attachments/810647412002652172/872700134302056478/phx.png?width=685&height=676"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 4,
+      "id": 80,
+      "info": {
+        "srID": "STL",
+        "tid": 20,
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652697837568010/1200px-St.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 4,
+      "id": 81,
+      "info": {
+        "srID": "LAK",
+        "tid": 11,
+        "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650402273230878/1200px-Los_Angeles_Kings_logo.png"
       }
     }
   ]
