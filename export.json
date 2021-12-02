@@ -94,7 +94,7 @@
       "name": "Avalanche",
       "abbrev": "COL",
       "pop": 2.5,
-      "stadiumCapacity": 17809,
+      "stadiumCapacity": 16601,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650022811140127/1024px-Colorado_Avalanche_logo.png",
       "jersey": "hockey",
       "colors": [
@@ -111,7 +111,7 @@
       "name": "Stars",
       "abbrev": "DAL",
       "pop": 4.5,
-      "stadiumCapacity": 17000,
+      "stadiumCapacity": 16928,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813445054827987004/dallas.png",
       "jersey": "hockey",
       "colors": [
@@ -128,7 +128,7 @@
       "name": "Red Wings",
       "abbrev": "DET",
       "pop": 4.3,
-      "stadiumCapacity": 20804,
+      "stadiumCapacity": 19983,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650255959392306/1200px-Detroit_Red_Wings_logo.png",
       "jersey": "hockey2",
       "colors": [
@@ -196,7 +196,7 @@
       "name": "Kings",
       "abbrev": "LAK",
       "pop": 11.7,
-      "stadiumCapacity": 18230,
+      "stadiumCapacity": 16005,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813453059749052466/37a92d4925d6b1c9a46853831d1c6591.png",
       "jersey": "hockey",
       "colors": [
@@ -213,7 +213,7 @@
       "name": "Canadiens",
       "abbrev": "MON",
       "pop": 3.3,
-      "stadiumCapacity": 21723,
+      "stadiumCapacity": 17959,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
       "jersey": "hockey",
       "colors": [
@@ -230,7 +230,7 @@
       "name": "Devils",
       "abbrev": "NJD",
       "pop": 4.6,
-      "stadiumCapacity": 16514,
+      "stadiumCapacity": 19040,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650621739925505/1200px-New_Jersey_Devils_logo.png",
       "jersey": "hockey",
       "colors": [
@@ -349,7 +349,7 @@
       "name": "Blues",
       "abbrev": "STL",
       "pop": 2,
-      "stadiumCapacity": 19260,
+      "stadiumCapacity": 18096,
       "jersey": "hockey",
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/914032156643315732/stlouis.png",
       "colors": [
@@ -417,7 +417,7 @@
       "name": "Capitals",
       "abbrev": "WAS",
       "pop": 4.4,
-      "stadiumCapacity": 18506,
+      "stadiumCapacity": 18130,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813465936467198070/washington.png",
       "jersey": "hockey",
       "colors": [
@@ -530,7 +530,7 @@
             "name": "Predators",
             "pop": 0.6,
             "abbrev": "NAS",
-            "stadiumCapacity": 17113,
+            "stadiumCapacity": 17159,
             "tid": 26,
             "cid": 1,
             "did": 3,
@@ -555,7 +555,7 @@
         "name": "Hurricanes",
         "pop": 0.8,
         "abbrev": "CAR",
-        "stadiumCapacity": 18680,
+        "stadiumCapacity": 23500,
         "tid": 10,
         "cid": 0,
         "did": 1,
@@ -617,7 +617,7 @@
         "name": "Coyotes",
         "pop": 2.7,
         "abbrev": "PHX",
-        "stadiumCapacity": 17125,
+        "stadiumCapacity": 16645,
         "tid": 25,
         "cid": 1,
         "did": 2,
@@ -1059,7 +1059,7 @@
     },
     {
       "type": "teamInfo",
-      "season": 2017,
+      "season": 2016,
       "phase": 4,
       "id": 34,
       "info": {
@@ -1076,7 +1076,7 @@
     },
     {
       "type": "teamInfo",
-      "season": 2008,
+      "season": 2007,
       "phase": 4,
       "id": 35,
       "info": {
@@ -1087,7 +1087,7 @@
     },
     {
       "type": "teamInfo",
-      "season": 2008,
+      "season": 2007,
       "phase": 4,
       "id": 36,
       "info": {
@@ -1695,13 +1695,189 @@
     },
     {
       "type": "teamInfo",
-      "season": 2010,
+      "season": 2004,
       "phase": 4,
       "id": 81,
       "info": {
         "srID": "LAK",
         "tid": 11,
         "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650402273230878/1200px-Los_Angeles_Kings_logo.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2004,
+      "phase": 0,
+      "id": 82,
+      "info": {
+        "srID": "PHX",
+        "tid": 25,
+        "stadiumCapacity": 17125
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 83,
+      "info": {
+        "srID": "BUF",
+        "tid": 2,
+        "stadiumCapacity": 19070
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 84,
+      "info": {
+        "srID": "CAR",
+        "tid": 10,
+        "stadiumCapacity": 18680
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 85,
+      "info": {
+        "srID": "COL",
+        "tid": 5,
+        "stadiumCapacity": 17809
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 0,
+      "id": 86,
+      "info": {
+        "srID": "DAL",
+        "tid": 6,
+        "stadiumCapacity": 18532
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "id": 87,
+      "info": {
+        "srID": "DET",
+        "tid": 7,
+        "stadiumCapacity": 19515
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "id": 88,
+      "info": {
+        "srID": "EDM",
+        "tid": 8,
+        "stadiumCapacity": 18347
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1999,
+      "phase": 0,
+      "id": 89,
+      "info": {
+        "srID": "FLA",
+        "tid": 9,
+        "stadiumCapacity": 17040
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 90,
+      "info": {
+        "srID": "LAK",
+        "tid": 11,
+        "stadiumCapacity": 18230
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "id": 91,
+      "info": {
+        "srID": "MTL",
+        "tid": 12,
+        "stadiumCapacity": 21302
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "id": 92,
+      "info": {
+        "srID": "NJD",
+        "tid": 13,
+        "stadiumCapacity": 16514
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2022,
+      "phase": 0,
+      "id": 93,
+      "info": {
+        "srID": "NYI",
+        "tid": 13,
+        "stadiumCapacity": 17000
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "id": 94,
+      "info": {
+        "srID": "PIT",
+        "tid": 18,
+        "stadiumCapacity": 18387
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "id": 95,
+      "info": {
+        "srID": "TOR",
+        "tid": 22,
+        "stadiumCapacity": 18819
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "id": 96,
+      "info": {
+        "srID": "VAN",
+        "tid": 23,
+        "stadiumCapacity": 18910
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1998,
+      "phase": 0,
+      "id": 97,
+      "info": {
+        "srID": "WAS",
+        "tid": 24,
+        "stadiumCapacity": 18573
       }
     }
   ]
