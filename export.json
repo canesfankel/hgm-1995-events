@@ -11,11 +11,11 @@
       "pop": 0.3,
       "stadiumCapacity": 17174,
       "imgURL": "https://cdn.discordapp.com/attachments/302970691651895296/813436531271270430/image.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
-        "#000000",
-        "#000000",
-        "#00685E"
+        "#FFFFFF",
+        "#532A44",
+        "#532A44"
       ]
     },
     {
@@ -28,11 +28,11 @@
       "pop": 4.2,
       "stadiumCapacity": 17565,
       "imgURL": "https://cdn.discordapp.com/attachments/872709635944087572/872983640668258354/bos.png",
-      "jersey": "hockey",
+      "jersey": "hockey3",
       "colors": [
         "#000000",
-        "#FFB81C",
-        "#FFFFFF"
+        "#FFFFFF",
+        "#FFB81C"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "jersey": "hockey",
       "colors": [
         "#FFFFFF",
-        "#002654",
+        "#003087",
         "#FCB514"
       ]
     },
@@ -115,9 +115,9 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813445054827987004/dallas.png",
       "jersey": "hockey",
       "colors": [
-        "#154734",
-        "#154734",
-        "#C69214"
+        "#FFFFFF",
+        "#000000",
+        "#006341"
       ]
     },
     {
@@ -149,9 +149,9 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650299144208434/1200px-Logo_Edmonton_Oilers.png",
       "jersey": "hockey",
       "colors": [
-        "#FF4C00",
-        "#041E42",
-        "#FFFFFF"
+        "#FFFFFF",
+        "#002776",
+        "#FF4C00"
       ]
     },
     {
@@ -181,9 +181,9 @@
       "pop": 0.9,
       "stadiumCapacity": 14750,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813455119332802600/Hartford_Whalers_1992.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
-        "#00205B",
+        "#FFFFFF",
         "#00205B",
         "#046A38"
       ]
@@ -198,10 +198,10 @@
       "pop": 11.7,
       "stadiumCapacity": 16005,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813453059749052466/37a92d4925d6b1c9a46853831d1c6591.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
         "#212121",
-        "#212121",
+        "#A2AAAD",
         "#FFFFFF"
       ]
     },
@@ -215,11 +215,11 @@
       "pop": 3.3,
       "stadiumCapacity": 17959,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
+        "#C60000",
         "#FFFFFF",
-        "#AF1E2D",
-        "#192168"
+        "#C60000"
       ]
     },
     {
@@ -249,10 +249,10 @@
       "pop": 1.2,
       "stadiumCapacity": 13917,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651376890675250/1200px-Logo_New_York_Islanders.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
         "#003087",
-        "#003087",
+        "#fc4c02",
         "#fc4c02"
       ]
     },
@@ -283,10 +283,10 @@
       "pop": 0.9,
       "stadiumCapacity": 18652,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813458177190133760/ottawa.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
-        "#000000",
-        "#000000",
+        "#212121",
+        "#C52032",
         "#C52032"
       ]
     },
@@ -319,9 +319,9 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png",
       "jersey": "hockey",
       "colors": [
-        "#231F20",
-        "#231F20",
-        "#FCB514"
+        "#FFFFFF",
+        "#FCB514",
+        "#231F20"
       ]
     },
     {
@@ -334,10 +334,10 @@
       "pop": 0.9,
       "stadiumCapacity": 17562,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813460819726958622/sanjose.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
-        "#006D75",
-        "#006D75",
+        "#007c92",
+        "#FFFFFF",
         "#FFFFFF"
       ]
     },
@@ -350,11 +350,11 @@
       "abbrev": "STL",
       "pop": 2,
       "stadiumCapacity": 18096,
-      "jersey": "hockey",
+      "jersey": "hockey3",
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/914032156643315732/stlouis.png",
       "colors": [
-        "#002F87",
-        "#002F87",
+        "#0031ad",
+        "#FFFFFF",
         "#FCB514"
       ]
     },
@@ -387,9 +387,9 @@
       "imgURL": "https://media.discordapp.net/attachments/872709635944087572/872966251851423744/tor.png?width=632&height=676",
       "jersey": "hockey2",
       "colors": [
-        "#002366",
-        "#002366",
-        "#002366"
+        "#000084",
+        "#000084",
+        "#000084"
       ]
     },
     {
@@ -436,10 +436,10 @@
       "pop": 0.7,
       "stadiumCapacity": 15321,
       "imgURL": "https://cdn.discordapp.com/attachments/810648182290776094/813466151711014922/1200px-Winnipeg_Jets_Logo.png",
-      "jersey": "hockey",
+      "jersey": "hockey2",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#AC162C",
         "#AC162C"
       ]
     }
@@ -563,7 +563,7 @@
         "jersey": "hockey2",
         "colors": [
           "#CC0000",
-          "#000000",
+          "#212121",
           "#CC0000"
         ]
       }
@@ -1217,7 +1217,13 @@
       "info": {
         "srID": "BOS",
         "tid": 1,
-        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png?width=676&height=676"
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png?width=676&height=676",
+        "jersey": "hockey",
+        "colors": [
+          "#000000",
+          "#FFB81C",
+          "#FFFFFF"
+        ]
       }
     },
     {
@@ -1878,6 +1884,23 @@
         "srID": "WAS",
         "tid": 24,
         "stadiumCapacity": 18573
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 1996,
+      "phase": 4,
+      "id": 98,
+      "info": {
+        "srID": "VAN",
+        "tid": 23,
+        "imgURL": "https://media.discordapp.net/attachments/872709635944087572/948042699141955644/canucks1997.png?width=701&height=676",
+        "jersey": "hockey2",
+        "colors": [
+          "#212121",
+          "#900028",
+          "#99999F"
+        ]
       }
     }
   ]
