@@ -316,7 +316,7 @@
       "abbrev": "PIT",
       "pop": 2.2,
       "stadiumCapacity": 16940,
-      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png",
+      "imgURL": "https://media.discordapp.net/attachments/872709635944087572/949477344299602010/pittsburgh.png",
       "jersey": "hockey",
       "colors": [
         "#FFFFFF",
@@ -1901,6 +1901,17 @@
           "#900028",
           "#99999F"
         ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2002,
+      "phase": 4,
+      "id": 99,
+      "info": {
+        "srID": "PIT",
+        "tid": 18,
+        "imgURL": "https://media.discordapp.net/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png?width=714&height=676"
       }
     }
   ]

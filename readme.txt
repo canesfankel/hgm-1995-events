@@ -29,7 +29,8 @@ F45 - Atlanta Thrashers become 2nd version of the Winnipeg Jets 2011
 F79 - Arizona Coyotes rebrand (to Kachina logo) 2021
 F80 - St. Louis Blues rebrand 1999
 F81 - Los Angeles Kings rebrand 2010
-F98 - Vancouver Canucks rebrand (to Orca logo) 1997 
+F98 - Vancouver Canucks rebrand 1997
+F99 - Pittsburgh Penguins rebrand 2002
 
 The next fields are conference and division realignments.
 Fiels 6 and 7 are divisional realignments. 1999 and 2014 respectively.
