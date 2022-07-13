@@ -514,6 +514,14 @@
     {
       "key": "maxRosterSize",
       "value": 27
+    },
+    {
+      "key": "tradeDeadline",
+      "value": 0.75
+    },
+    {
+      "key": "allStarGame",
+      "value": 0.67
     }
   ],
   "scheduledEvents": [
