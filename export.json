@@ -521,7 +521,11 @@
     },
     {
       "key": "allStarGame",
-      "value": 0.67
+      "value": 0.6
+    },
+    {
+      "key": "aiTradesFactor",
+      "value": 0.8
     }
   ],
   "scheduledEvents": [
